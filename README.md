@@ -155,7 +155,7 @@ Contract address 1 deployed to: 0xABC
 ProxyAdmin address deployed to: 0xABC
 Proxy contract address: 0xABC <- copy that for "the deployed proxy contract address"
 Contract address 2 deployed to: 0xABC
-Response: https://explorer-evm.testnet.swisstronik.com/tx/0xABC <- copy [ONLY HASH] (0x...) that for "the link to the contract implementation replacement transaction"
+Response: https://explorer-evm.testnet.swisstronik.com/tx/0xABC <- copy [ONLY HASH] (0x...) that for "the HASH to the contract implementation replacement transaction"
 ```
 
 Get your `Contract address 1 deployed` address and verify by execute command:
