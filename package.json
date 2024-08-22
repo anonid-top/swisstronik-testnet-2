@@ -1,9 +1,9 @@
 {
-	"name": "swisstronik-testnet2",
-	"version": "1.0.0",
+	"name": "swisstronik-testnet",
+	"version": "1.0.1",
 	"main": "index.js",
-	"repository": "git@github.com:p10node/swisstronik-testnet2.git",
-	"author": "Pierre Neter <pierre@pierreneter.com>",
+	"repository": "git@github.com:anonid-top/swisstronik-testnet.git",
+	"author": "AnonID.TOP <admin@anonid.top>",
 	"license": "MIT",
 	"private": true,
 	"scripts": {
