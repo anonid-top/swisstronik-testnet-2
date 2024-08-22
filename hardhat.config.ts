@@ -16,7 +16,9 @@ const config: HardhatUserConfig = {
     },
   },
   etherscan: {
-    apiKey: "",
+    apiKey: {
+      swisstronik: "ANY_STRING_WILL_DO"
+    },
     customChains: [
       {
         network: "swisstronik",
